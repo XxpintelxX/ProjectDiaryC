@@ -48,4 +48,4 @@ Else
 	.\diary1 
 }
 
-By Tristan Pichard (The goat), Max Chartier, Tristan Bordel
+By Tristan Pichard, Max Chartier, Tristan Bordel
